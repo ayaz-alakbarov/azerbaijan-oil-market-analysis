@@ -6,7 +6,6 @@ contextualized for Azerbaijan as a petro-state economy. AZN/USD exchange rate
 data was sourced directly from the Central Bank of Azerbaijan (CBAR) public API.
 
 ## Tools Used
-- **PostgreSQL + DBeaver** — data storage and SQL analysis
 - **Python (pandas, matplotlib, statsmodels, yfinance)** — data collection, 
   analysis and regression modeling
 - **Tableau Public** — interactive dashboard
@@ -32,6 +31,5 @@ data was sourced directly from the Central Bank of Azerbaijan (CBAR) public API.
 [View Live Dashboard](https://public.tableau.com/app/profile/ayaz.alakbarov/viz/AzerbaijanOilMarketAnalysis20192024/Dashboard1)
 
 ## Project Structure
-- /sql — SQL queries for data storage and analysis
 - /notebooks — Jupyter notebook with full Python analysis
 - azn_oil_analysis.csv — cleaned dataset exported for Tableau
